@@ -21,4 +21,4 @@ apresente um alerta informando a prop label do botão quefoi clicado, com a segu
 
 # Resultado
 
-![Imagem Final](./src/imgs/done.gif)
+![Imagem Final](./react-base-1/src/imgs/done.gif)
